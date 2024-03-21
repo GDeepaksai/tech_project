@@ -16,6 +16,7 @@
     "iconv-lite": "^0.6.3",
     "is-empty": "^1.2.0",
     "mongoose": "^6.9.1",
+    "mongosh": "^2.2.1",
     "nodemon": "^2.0.20",
     "validator": "^13.11.0"
   }
